@@ -5,7 +5,7 @@
 | Document audited | "The LULU Q4 FY25 Supplier Read-Through: A Blind Reconstruction of the Asian Supplier Pre-Print Signal Workflow", Wall Street Prompt, author Dave Wang, dated May 2026, 41 pages (v2) |
 | Auditor | SPEC Research (Milos Maricic), spec-research.com |
 | Audit run | Claim extraction, primary-source verification, and an adversarial review of our own adverse verdicts, completed 17 July 2026 |
-| Status | DRAFT. Sent to Wall Street Prompt on Monday 10 August 2026 for right of reply: five business days, through 5:00 PM New York time on Monday 17 August 2026; any response provided for publication printed verbatim and unedited alongside this audit. Publication no earlier than Tuesday 18 August 2026 |
+| Status | Published Tuesday 18 August 2026. Sent to Wall Street Prompt on Monday 10 August 2026 for right of reply, through 5:00 PM New York time on Monday 17 August 2026. No response was received at either address or through LinkedIn by that deadline; delivery and receipt were not independently confirmed. The offer stands open: any response provided for publication prints verbatim and unedited alongside this audit, at whatever length |
 | Companion | This audit is the retrospective baseline for our pre-registered forward test of the same prompt: github.com/SPEC-research/forward-test (PROTOCOL.md) |
 | Disclosure | Unpaid and unsolicited. The auditor runs the companion forward test above and holds no position in any security named |
 
